@@ -1,10 +1,9 @@
 ---
 name: commons-building
-description: A skill for designing open infrastructure that makes paywalls and artificial
-  scarcity obsolete.
+description: A skill for designing open infrastructure that makes paywalls and artificial scarcity obsolete.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - commons-building
