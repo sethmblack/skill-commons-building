@@ -3,8 +3,8 @@ name: commons-building
 description: A skill for designing open infrastructure that makes paywalls and artificial scarcity obsolete.
 license: MIT
 metadata:
+  version: 1.0.3631
   author: sethmblack
-  version: 1.0.3630
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - commons-building
